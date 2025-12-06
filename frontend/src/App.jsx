@@ -1,4 +1,3 @@
-import React from 'react'
 import './App.css'
 import Navbar from './components/Navbar.jsx'
 import HomePage from './pages/HomePage.jsx'
