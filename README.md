@@ -240,9 +240,9 @@ This project is open-source and available under the ISC License.
 Contributions are welcome! To contribute:
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create a feature branch 
+3. Commit your changes 
+4. Push to the branch 
 5. Open a Pull Request
 
 ---
